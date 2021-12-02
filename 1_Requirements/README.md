@@ -6,36 +6,36 @@
 ## Benfits
 * Comfort while driving.
 * improves health like Blood pressure.
-* Reduced time.
-* Easy tracking of temparature
+*Reduced time.
+*Easy tracking of temparature
 ## SWOT ANALYSIS
 ## Strength:
-* Easy maintenance 
-* Better management automative.
+*Easy maintenance 
+*Better management automative.
 ## Weaknesses
-* Installation cost
+*Installation cost
 ## Opportunities
-* improve Comfort of driving
-* Skill advancement, better facility.
+*improve Comfort of driving
+*Skill advancement, better facility.
 ## Threats
-* need to Maintain correctly.
+*need to Maintain correctly.
 ## Who:
-* Drivers and Passengers 
+*Drivers and Passengers 
 ## What:
-* seat heating application for Vehicles.
+*seat heating application for Vehicles.
 ## When:
-* automatically seat heating in winter seasson.
+*automatically seat heating in winter seasson.
 ## Where:
-* Inside the Vehicles
+*Inside the Vehicles
 ## How:
-* Temparature sensor will detect the temparature inside the car and maitain the car temparature according to that.
+*Temparature sensor will detect the temparature inside the car and maitain the car temparature according to that.
 # Detail requirements
 ## High Level Requirements:
-* Should be able to find the passenger is seated or not  
+*Should be able to find the passenger is seated or not  
 *Temparature shall be able seanse by seansor accurately.
-* temparature should not be less than 20c.	
-* temparature should not be less than 33c.	
+*temparature should not be less than 20c.	
+*temparature should not be less than 33c.	
 ##  Low level Requirements:
-* display shall be show the temparature reading without any errors.
-* Lead Actuator should shows the driver is seated.	
-* Heater will check the heater button is on.	
+*display shall be show the temparature reading without any errors.
+*Lead Actuator should shows the driver is seated.	
+*Heater will check the heater button is on.	
