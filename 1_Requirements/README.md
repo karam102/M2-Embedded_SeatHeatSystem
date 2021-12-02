@@ -9,7 +9,7 @@
 *Reduced time.
 *Easy tracking of temparature
 ## SWOT ANALYSIS
-## Strength:
+## Strength
 *Easy maintenance 
 *Better management automative.
 ## Weaknesses
@@ -19,23 +19,23 @@
 *Skill advancement, better facility.
 ## Threats
 *need to Maintain correctly.
-## Who:
+## Who
 *Drivers and Passengers 
-## What:
+## What
 *seat heating application for Vehicles.
-## When:
+## When
 *automatically seat heating in winter seasson.
-## Where:
+## Where
 *Inside the Vehicles
-## How:
+## How
 *Temparature sensor will detect the temparature inside the car and maitain the car temparature according to that.
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 *Should be able to find the passenger is seated or not  
 *Temparature shall be able seanse by seansor accurately.
 *temparature should not be less than 20c.	
 *temparature should not be less than 33c.	
-##  Low level Requirements:
+##  Low level Requirements
 *display shall be show the temparature reading without any errors.
 *Lead Actuator should shows the driver is seated.	
 *Heater will check the heater button is on.	
